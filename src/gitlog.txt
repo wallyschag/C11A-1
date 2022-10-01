@@ -1,0 +1,43 @@
+commit d21a640345fac159ed495f65e4c32d4dec54abe7
+Merge: 5ec16fa 5fcbc9b
+Author: Kyle Smart <mckylssir@gmail.com>
+Date:   Fri Sep 30 20:44:15 2022 -0600
+
+    Merge branch 'main' of https://github.com/wallyschag/C11A-1
+    test commit
+
+commit 5fcbc9b194a17276dc0025a5eceb9e0389eee116
+Author: Wallace Schageman <wschageman@mines.edu>
+Date:   Fri Sep 30 20:42:15 2022 -0600
+
+    wallace changes
+
+commit 5ec16fa2432cc2488478a05b8a002c321b209a44
+Author: Kyle Smart <mckylssir@gmail.com>
+Date:   Fri Sep 30 20:23:07 2022 -0600
+
+    Third commit, changed cats dimensions
+
+commit 91174aded3a29d43b27ceaa90e896f4ea57fe077
+Author: Kyle Smart <mckylssir@gmail.com>
+Date:   Fri Sep 30 20:20:33 2022 -0600
+
+    Second commit, changed the sizes
+
+commit b9f566b819e69a12986b9ca537cb30d418928f27
+Author: Kyle Smart <mckylssir@gmail.com>
+Date:   Fri Sep 30 20:19:55 2022 -0600
+
+    First commit, changed the colors
+
+commit 2950f1da95b8a46920f71a5ac35e1ced0720066b
+Author: wallyschag <56000712+wallyschag@users.noreply.github.com>
+Date:   Fri Sep 30 13:31:11 2022 -0600
+
+    added text to .gitignore
+
+commit e6cd6c0da1fc12e1f1c7a399df6352e56d7fa5b2
+Author: Wallace Schageman <wschageman@mines.edu>
+Date:   Fri Sep 30 13:23:44 2022 -0600
+
+    initial commit
