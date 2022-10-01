@@ -1,0 +1,5 @@
+commit e6cd6c0da1fc12e1f1c7a399df6352e56d7fa5b2
+Author: Wallace Schageman <wschageman@mines.edu>
+Date:   Fri Sep 30 13:23:44 2022 -0600
+
+    initial commit
